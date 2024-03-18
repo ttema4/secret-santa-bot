@@ -1,3 +1,3 @@
-TOKEN = '1985777208:AAEy3noDMnzdNKjuiZzeheUnqAcSKSF81T0'
-MY_ID = 370709103
+TOKEN = ''  # токен botfather
+MY_ID = 0  # tg id пользователя, который будет руководить игрой
 
